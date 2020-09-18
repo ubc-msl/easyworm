@@ -15,8 +15,8 @@ Windows & Linux 64-bit:
 
 Easyworm recompiled with Matlab 2020a 64bit under windows 10 and Matlab 2012b 64bit for Linux.
 
-* MCR 2020a 64 Bit: [MCRInstaller-win64-2020a(https://ssd.mathworks.com/supportfiles/downloads/R2020a/Release/5/deployment_files/installer/complete/win64/MATLAB_Runtime_R2020a_Update_5_win64.zip)]
-* MCR 2012b 64 Bit: [MCRInstaller-linux64-2012b (https://ssd.mathworks.com/supportfiles/MCR_Runtime/R2012b/MCR_R2012b_glnxa64_installer.zip)]
+* MCR 2020a 64 Bit: [MCRInstaller-win64-2020a](https://ssd.mathworks.com/supportfiles/downloads/R2020a/Release/5/deployment_files/installer/complete/win64/MATLAB_Runtime_R2020a_Update_5_win64.zip)
+* MCR 2012b 64 Bit: [MCRInstaller-linux64-2012b] (https://ssd.mathworks.com/supportfiles/MCR_Runtime/R2012b/MCR_R2012b_glnxa64_installer.zip)
 
 Downloading the MCR directly on Mathworks’s website. However, since backwards compatibility issues are highly probable, it is very strongly advised to use only the versions as indicated with which Easyworm have been compiled (i.e. those available here, or equivalent versions on Mathworks website, and not the most recent ones).
 
